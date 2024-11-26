@@ -9,7 +9,7 @@
 
 This project illustrates how LLMs can be applied to real-world scenarios, empowering users with intelligent, natural language tools.
 
-## 🚀 Requirements
+## ✨Requirements
 - load_dotenv==0.1.0
 - ibm_watson_machine_learning==1.0.345
 - ibm-cloud-sdk-core==3.16.7
