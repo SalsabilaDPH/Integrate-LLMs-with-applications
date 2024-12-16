@@ -54,7 +54,7 @@ python demo_wml_api.py
 Question/request: Write a paragraph about the capital of France.
 Answer: Located in the east of France, Paris is the capital of France. It is also the most populated city of France with a population of 2.2 million people. It is the seat of the French parliament, the National Assembly. The city is located in the heart of France and is surrounded by the Île-de-France region.
 ---------------------------------------------------------------------------
-C:\Users\LENOVO\anaconda3\Lib\site-packages\ibm_watson_machine_learning\foundation_models\utils\utils.py:273: LifecycleWarning: Model 'meta-llama/llama-2-13b-chat' is in deprecated state from 2024-08-26 until None. IDs of alternative models: None. Further details: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-model-lifecycle.html?context=wx&audience=wdp
+C:\Users\asus\AppData\Local\Programs\Python\Python310\Lib\site-packages\ibm_watson_machine_learning\foundation_models\utils\utils.py:273: LifecycleWarning: Model 'meta-llama/llama-2-13b-chat' is in deprecated state from 2024-08-26 until None. IDs of alternative models: None. Further details: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-model-lifecycle.html?context=wx&audience=wdp
 warnings.warn(default_warning_template.format(
 ---------------------------------------------------------------------------
 Prompt: 
